@@ -1,0 +1,12 @@
+.table2 tr:hover{
+    background-color: grey;
+    border-style: aquamarine;
+}
+
+body{
+    background-color:burlywood;
+}
+
+.table1 aul{
+    text-align: right;
+}

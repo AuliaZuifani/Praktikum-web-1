@@ -1,0 +1,109 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>evaluasi</title>
+    <link rel="stylesheet" href="evaluasi.css">
+ </head>
+ <body>
+    <h1>Latihan Pemrograman web 1</h1>
+    <p>Contoh list Kendaraan</p>
+    <ol><!--membuat linked list-->
+        <li>Mobil</li>
+        <ul>
+            <li>pajero</li>
+            <li>civic</li>
+            <li>jazz</li>
+        </ul>
+        <li>Motor</li>
+        <ul>
+            <li>supra</li>
+            <li>vario</li>
+            <li>mio</li>
+        </ul>
+    </ol>
+    
+    <!--membuat tabel html-->
+    <table class="table1" border="2" style="width:10%">
+        <tr>
+            <th>A</th>
+            <th>B</th>
+        </tr>
+        <tr>
+            <td style="text-align: center;">1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>6</td>
+        <tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+    </table><br>
+        
+    <table class="table2" border="2px " style="width:50%">
+    <tr>
+        <th colspan="2" style="background-color:rgb(126, 199, 126)">Data Mahasiswa</th>
+    </tr>
+    <tr>
+        <td><center>Nama</center></td>
+        <td><center>No.telp</center></td>
+    </tr>
+    <tr>
+        <td>fani</td>
+        <td>085</td>
+    </tr>
+    <tr>
+        <td>mei</td>
+        <td>999</td>
+    </tr>
+    <tr>
+        <td>putri</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>dimz</td>
+        <td>222</td>
+    </tr>
+    <tr>
+        <td>alva</td>
+        <td rowspan="1">
+            <img src="pngegg.png" style="width:50px;height:50px">
+        </td>
+    </tr>
+</table><br>
+
+<!--javascript-->
+<h3>hitung hasil dibawah</h3>
+<script>
+
+    let a= 10;
+    let b= 2;
+
+    function hitung(a,b) {
+        return a/b;
+    }
+
+    let hasil= hitung (a,b);
+    function myFunction(){
+        alert("hasil "+a+" / "+b+"="+hasil);
+    }
+
+document.write("Nilai"+a+"<br>");
+document.write("Nilai"+b+"<br>");
+
+    
+</script>
+<button type="button" onclick="myFunction()">Try it</button>
+
+
+
+ </body>
+ </html>
