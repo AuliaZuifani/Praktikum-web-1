@@ -77,6 +77,17 @@ Operator javascript digunakan untuk melakukan berbagai jenis perhitungan matemat
 10)	JS Arithmatic
 Penulisan simbol dan perhitungan matematika.
 
+BERIKUT BEBERAPA HASIL DARI MATERI YANG SUDAH SAYA PELAJARI
+![HASIL EVALUASI](https://github.com/AuliaZuifani/Praktikum-web-1/assets/165286477/1940cfba-e6ef-4398-b2fb-ded0cc852c29)
+![HTML FORMATTING](https://github.com/AuliaZuifani/Praktikum-web-1/assets/165286477/48540eff-f395-4bce-af39-46e9e7bdd75f)
+![HTML STYLE](https://github.com/AuliaZuifani/Praktikum-web-1/assets/165286477/a8a1b35d-5099-44b9-9dcb-81c2f4931409)
+![CSS BORDER](https://github.com/AuliaZuifani/Praktikum-web-1/assets/165286477/591b9149-3ddd-497a-b56c-34e1e4606747)
+![CSS BOX MODEL](https://github.com/AuliaZuifani/Praktikum-web-1/assets/165286477/48734471-6c64-45af-8d1a-ff8c7a7564f0)
+![JAVASCRIPT STATEMENT](https://github.com/AuliaZuifani/Praktikum-web-1/assets/165286477/c28f4d76-3c53-4350-844c-82f5f61504e6)
+![JAVASCRIPT OUTPUT](https://github.com/AuliaZuifani/Praktikum-web-1/assets/165286477/9326a736-9dcb-4c64-a546-4ed6f8ecbbf7)
+
+
+
 PENJELASAN LEBIH LANJUT DAPAT DI AKSES MELALUI DOWNLOAD DI FILE RANGKUMAN HTML,CSS JS.docx
 
 
