@@ -77,7 +77,7 @@ Operator javascript digunakan untuk melakukan berbagai jenis perhitungan matemat
 10)	JS Arithmatic
 Penulisan simbol dan perhitungan matematika.
 
-PENJELASAN LEBIH LANJUT DAPAT DI AKSES DI FILE RANGKUMAN HTML,CSS JS.docx
+PENJELASAN LEBIH LANJUT DAPAT DI AKSES MELALUI DOWNLOAD DI FILE RANGKUMAN HTML,CSS JS.docx
 
 
 
